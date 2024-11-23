@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/MnM-magic/Website/blob/main/Capture.jpg.PNG)
+![I am GitHub Readme Generator's creator](https://github.com/MnM-magic/MnM-magic/blob/main/Capture.jpg.PNG)
 
 # Hi there 👋, I'm Mulumbwa Matimelo
 ## Computer Scienctist (M-Steam)🔬💻📎
