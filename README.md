@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @MnM-magic
-- 👀 I’m interested in C++, Python, Java
-- 🌱 I’m currently learning computer science, (polishing up on HTML) 
-- 🎮 I’m looking to collaborate on games
-- 📫 How to reach me through DM
-- 🤷🏿‍♂️ I'll need help from time to time
-
-<!---
-MnM-magic/MnM-magic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Yoh
+- I'm Mulumbwa Matimelo, a proud student of the University of KwaZulu Natal.
+- I do M-Stream majoring into Computer Science and I do project such as game dev in Python, HTML and CSS web-dev, a bit of Django and I'm starting to learn more on dev using Java
