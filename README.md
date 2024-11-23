@@ -11,7 +11,7 @@ I do M-Stream, majoring into Computer Science, and I've done project such as gam
 
 ## Example
 ![example](https://github.com/MnM-magic/MnM-magic/blob/main/Battle%20front%202024-11-24%2001-19-47.gif)
-Coded in Python (Clear code tutorial)
+Coded in Python (Clear Code YT - tutorial)
 ## Dreams and passions 🖥️📈📡
 One day I aim to become a successful software architect and engineer, simply from the fact that I love the creation of advanced applications, their design structures and just the shear creativity behind them. I just love thinking out our the box for random solutions to a problem. I also hope to meet like minded people on the way that can help build paths towards success.
 
