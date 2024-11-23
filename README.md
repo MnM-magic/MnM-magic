@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/MnM-magic/MnM-magic/blob/main/Capture.jpg.PNG)
+![Banner](https://github.com/MnM-magic/MnM-magic/blob/main/Capture.jpg.PNG)
 
 # Hi there 👋, I'm Mulumbwa Matimelo
 ## Computer Scienctist (M-Steam)🔬💻📎
@@ -9,6 +9,9 @@ I do M-Stream, majoring into Computer Science, and I've done project such as gam
 ## Skills 🖥️📱🎮: 
  JAVA / PYTHON / CSS / HTML
 
+## Example
+![example](https://github.com/MnM-magic/MnM-magic/blob/main/Battle%20front%202024-11-24%2000-53-23%20(1).gif)
+Coded in Python (Clear code tutorial)
 ## Dreams and passions 🖥️📈📡
 One day I aim to become a successful software architect and engineer, simply from the fact that I love the creation of advanced applications, their design structures and just the shear creativity behind them. I just love thinking out our the box for random solutions to a problem. I also hope to meet like minded people on the way that can help build paths towards success.
 
