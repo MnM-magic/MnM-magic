@@ -1,6 +1,6 @@
 ![Computer Scienctist (M-Steam)](https://github.com/MnM-magic/MnM-magic/blob/main/Capture.jpg.PNG)
 
-### Hi there 👋, I'm Mulumbwa Matimelo
+# Hi there 👋, I'm Mulumbwa Matimelo
 ## Computer Scienctist (M-Steam)🔬💻📎
 
 I'm a proud student of the University of KwaZulu Natal.
