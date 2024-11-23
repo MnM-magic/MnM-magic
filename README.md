@@ -9,7 +9,7 @@ I do M-Stream, majoring into Computer Science, and I've done project such as gam
 ## Skills 🖥️📱🎮: 
  JAVA / PYTHON / CSS / HTML
 
-## Example
+## Example 🎮
 ![example](https://github.com/MnM-magic/MnM-magic/blob/main/Battle%20front%202024-11-24%2001-19-47.gif)
 Coded in Python (Clear Code YT - tutorial)
 ## Dreams and passions 🖥️📈📡
